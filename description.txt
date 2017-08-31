@@ -1,0 +1,1 @@
+This simulator is intended to provide empirical evidence of the soundness of different sampling schemes.
